@@ -4,6 +4,8 @@ Overview
 
 ## Description
 
+- [shinyay/adoptopenjdk11-minimum](https://cloud.docker.com/repository/registry-1.docker.io/shinyay/adoptopenjdk11-minimum)
+
 ## Demo
 
 ## Features
